@@ -48,7 +48,7 @@ class BookController extends Controller
      */
     public function update(Request $request, $id)
     {
-        Book::where('id', $id)->updata([
+        Book::where('id', $id)->update([
             'title' => $request->title,
             'author' => $request->author
         ]);
