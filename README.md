@@ -16,7 +16,7 @@
 
 <!-- ## Requirement -->
 
-<!-- ## Usage -->
+## Usage
 Launch locally
 
 1. Set sqlite in `.env` and create database.sqlite
