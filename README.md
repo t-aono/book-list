@@ -10,7 +10,9 @@
 - The front end is built using Vue.js and the back end is built using Laravel.
 - SQLite is used for the database.
 
-<!-- ## Demo -->
+## Demo
+
+![laravel-vue-book-curd](https://user-images.githubusercontent.com/46856574/149048709-a04f7e13-b65d-4575-b89d-23d5e0678d6d.gif)
 
 <!-- ## VS. -->
 
