@@ -12,7 +12,7 @@
 
 ## Demo
 
-![laravel-vue-book-curd](https://user-images.githubusercontent.com/46856574/149048709-a04f7e13-b65d-4575-b89d-23d5e0678d6d.gif)
+![fqaeWCmFFOiVnQ7SHAKP1650095807-1650095920](https://user-images.githubusercontent.com/46856574/163667274-f194f750-6e6d-41dd-b19b-bb6d84653f5d.gif)
 
 <!-- ## VS. -->
 
